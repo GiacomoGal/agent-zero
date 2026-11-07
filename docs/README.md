@@ -3,6 +3,8 @@
 
 Welcome to the Agent Zero documentation hub. Whether you're getting started or diving deep into the framework, you'll find comprehensive guides below.
 
+Uso corrente e identità di questo fork restano non provati. La prefazione umana è in [README.md](../README.md); contratti, matrice e limiti sono in [Checkout di questo fork](checkout-guide.md).
+
 ## Quick Start
 
 - **[Quickstart Guide](quickstart.md):** Get up and running in 5 minutes with Agent Zero.

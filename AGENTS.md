@@ -2,6 +2,20 @@
 
 [Generated using reconnaissance on 2026-02-22]
 
+## Checkout scope
+
+Coding agents use this file as the operative workspace guide. The sections below keep their existing rank, recipients, and conditions, including Safety and Permissions, development patterns, release rules, and the nested guides they cite.
+
+The local origin of this clone is the fork `GiacomoGal/agent-zero` on `main`. A local inventory dated 7 November 2026 records `fork=True`, `identity_proven=false`, `unknowncurrentuse=true`, and `nextdocscope=unresolved`, with no identity evidence and no executed lifecycle decision. Current use, operator, and any VPS stay unknown. The repository name and `docs/setup/vps-deployment.md` do not identify a host. That inventory does not certify the remote ref.
+
+`CLAUDE.md` points here. It does not copy this file and it does not sync memories.
+
+Framework prompts, skills, examples, roadmaps, and comments keep their own rank. They are not session policy and they are not an autonomous mandate. Obligations already written in this file, in `LICENSE`, and in the product guides stay in force.
+
+The human preface is at the top of `README.md`. The source matrix, static checks, and limits are in `docs/checkout-guide.md`. Commands shown in this guide are procedures; that documentary note did not run them.
+
+The statement "Status: Active Development" below is this guide’s description of the framework. The footer date is 2026-03-25. It does not prove live use of this fork.
+
 ## Quick Reference
 Tech Stack: Python 3.12+ | Flask | Alpine.js | LiteLLM | WebSocket (Socket.io)
 Dev Server: python run_ui.py (runs on http://localhost:50001 by default)

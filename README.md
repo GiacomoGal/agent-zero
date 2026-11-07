@@ -1,3 +1,17 @@
+## Prefazione — checkout di questo fork
+
+Questa prefazione riguarda il checkout in cui stai leggendo il file. Il testo di prodotto, dal titolo `Agent Zero` in poi, è quello già presente nel commit `b5e110ad0d5915775175b4356c8ad4ca10b1c1f2`.
+
+L’origine locale del clone è `GiacomoGal/agent-zero`, ramo `main`. Un inventario locale del 7 novembre 2026 lo registra come fork non archiviato. La licenza e i documenti di prodotto indicano il repository del progetto su `https://github.com/agent0ai/agent-zero`. Quell’indirizzo non è stato aperto per scrivere questa prefazione. La licenza MIT in [`LICENSE`](LICENSE) resta com’è: copyright Agent Zero, s.r.o.
+
+Lo stesso inventario, che non è una verifica remota, lascia non provati l’uso corrente e l’identità di chi opera questo fork. Non risulta un abbinamento, fatto per nome, con un servizio, un VPS o un altro proprietario. Da questo non segue che il repository sia inutilizzato. La guida [`docs/setup/vps-deployment.md`](docs/setup/vps-deployment.md) è una procedura generica di prodotto, con host di esempio; non nomina una macchina di questo fork.
+
+La matrice dei contratti, le verifiche statiche e i limiti sono in [`docs/checkout-guide.md`](docs/checkout-guide.md). Le istruzioni operative per gli agenti di codice restano in [`AGENTS.md`](AGENTS.md). [`CLAUDE.md`](CLAUDE.md) rimanda a quel file, senza una seconda copia e senza sincronizzazione di memorie.
+
+I comandi di installazione e di sviluppo più sotto sono procedure. Eseguirle richiede un mandato distinto. Questa modifica documentale non le ha eseguite.
+
+---
+
 <div align="center">
 
 # `Agent Zero`
